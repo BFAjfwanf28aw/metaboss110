@@ -6,8 +6,34 @@
   "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/bafybeigpte6viap3rk7ishk5662fn6nilavidbgfeajsk7lo67ne6bxahe/998.jpeg",
   "attributes": [
    {
-      "trait_type": "Unknown",
-      "value": "???"
+      "trait_type": "Background",
+      "value": "Cherry"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Metoobro"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Ozz"
+    },
+    {
+      "trait_type": "Horn",
+      "value": "Loki Red"
+    },
+    {
+      "trait_type": "Horn - Ornaments",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Maska",
+      "value": "Hot Summer"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 3,
+      "display_type": "number",
+      "max_value": 999
     }
   ],
   "properties": {
